@@ -1,6 +1,8 @@
-﻿<%@ Page Title="Checkout" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Checkout.aspx.cs" Inherits="Gaurav_BookStore.Checkout" %>
+﻿
+<%@ Page Title="Checkout" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Checkout.aspx.cs" Inherits="Gaurav_BookStore.Checkout" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <!-- Checkout.aspx -->
     <div class="container mt-5">
         <h2 class="mb-4">Check Out Page</h2>
 

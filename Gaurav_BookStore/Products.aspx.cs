@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Configuration;
 using Gaurav_BookStore.Models;
-
+//Products.aspx.cs
 namespace Gaurav_BookStore
 {
     public partial class Products : System.Web.UI.Page
@@ -12,6 +12,15 @@ namespace Gaurav_BookStore
         {
             if (!IsPostBack)
             {
+
+                if (Session["FirstName"] != null)
+                {
+                    lblWelcome.Text = $"Welcome, {Session["FirstName"]}!";
+                }
+                else
+                {
+                    lblWelcome.Text = "Welcome, Guest!";
+                }
             }
         }
 
@@ -77,31 +86,26 @@ namespace Gaurav_BookStore
                 return;
             }
 
-            int quantity;
-            if (!int.TryParse(txtQuantity.Text, out quantity) || quantity <= 0)
+            if (!int.TryParse(txtQuantity.Text, out int quantity) || quantity <= 0)
             {
                 lblErrorMessage.Text = "Quantity should be more than 0";
                 lblErrorMessage.Visible = true;
                 return;
             }
 
-            // Get selected book and add to cart
+            // Proceed if quantity is valid
             int selectedBookID = int.Parse(ddlProducts.SelectedValue);
             Book selectedBook = GetBookFromDatabase(selectedBookID);
 
             if (selectedBook != null)
             {
-                var cart = (List<Book>)Session["CartItems"];
-                if (cart == null)
-                {
-                    cart = new List<Book>();
-                }
+                var cart = (List<Book>)Session["CartItems"] ?? new List<Book>();
 
-                // Add the book to the cart with the selected quantity
+                // Add the book with quantity
                 selectedBook.Quantity = quantity;
                 cart.Add(selectedBook);
 
-                // Store the cart in the session
+                // Store the cart in session
                 Session["CartItems"] = cart;
 
                 lblErrorMessage.Visible = false;

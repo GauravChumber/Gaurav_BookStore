@@ -1,21 +1,37 @@
-﻿<%@ Page Title="Cart" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Cart.aspx.cs" Inherits="Gaurav_BookStore.Cart" %>
+﻿
 
+<%@ Page Title="Cart" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Cart.aspx.cs" Inherits="Gaurav_BookStore.Cart" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <!-- Cart.aspx -->
     <div class="container mt-5">
         <h2>Your Cart</h2>
 
         <asp:Label ID="lblEmptyCartMessage" runat="server" Text="Your cart is empty." CssClass="alert alert-warning" Visible="False" />
 
-        <!-- display cart items -->
-        <asp:GridView ID="GridViewCart" runat="server" AutoGenerateColumns="False" CssClass="table table-bordered table-striped">
-            <Columns>
-                <asp:BoundField DataField="Title" HeaderText="Title" />
-                <asp:BoundField DataField="Author" HeaderText="Author" />
-                <asp:BoundField DataField="Price" HeaderText="Price" DataFormatString="{0:C}" />
-                <asp:BoundField DataField="Quantity" HeaderText="Quantity" />
-                <asp:BoundField DataField="GenreName" HeaderText="Genre" />
-            </Columns>
-        </asp:GridView>
+       <!-- Empty Cart Message -->
+<asp:Label ID="Label1" runat="server" Text="Your cart is empty." CssClass="alert alert-warning" Visible="False" />
+
+<!-- GridView with Update Quantity Button -->
+<asp:GridView ID="GridViewCart" runat="server" AutoGenerateColumns="False" CssClass="table table-bordered table-striped" OnRowCommand="GridViewCart_RowCommand">
+    <Columns>
+        <asp:BoundField DataField="Title" HeaderText="Title" />
+        <asp:BoundField DataField="Author" HeaderText="Author" />
+        <asp:BoundField DataField="Price" HeaderText="Price" DataFormatString="{0:C}" />
+        <asp:TemplateField HeaderText="Quantity">
+            <ItemTemplate>
+                <asp:TextBox ID="txtQuantity" runat="server" Text='<%# Eval("Quantity") %>' CssClass="form-control" Width="50px" />
+            </ItemTemplate>
+        </asp:TemplateField>
+        <asp:BoundField DataField="GenreName" HeaderText="Genre" />
+        <asp:ButtonField CommandName="UpdateQuantity" Text="Update" ButtonType="Button" />
+    </Columns>
+</asp:GridView>
+
+<!-- Buttons for Emptying Cart and Checkout -->
+<div class="mt-4">
+    <asp:Button ID="btnEmptyCart" runat="server" Text="Empty Cart" CssClass="btn btn-danger" OnClick="btnEmptyCart_Click" />
+</div>
+
 
         <!-- Cart-->
         <div class="mt-4">

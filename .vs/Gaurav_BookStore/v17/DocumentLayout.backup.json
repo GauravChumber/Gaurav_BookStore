@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Asp_Project\\Gaurav_BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|d:\\asp_project\\gaurav_bookstore\\gaurav_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|d:\\asp_project\\gaurav_bookstore\\gaurav_bookstore\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -35,20 +27,48 @@
       "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|d:\\asp_project\\gaurav_bookstore\\gaurav_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|D:\\Asp_Project\\Gaurav_BookStore\\gaurav_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F5C093C-6DD2-41A2-89FD-F1A8CC967729}|Gaurav_BookStore\\Gaurav_BookStore.csproj|solutionrelative:gaurav_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,20 +78,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Default.aspx",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx",
-              "RelativeToolTip": "Gaurav_BookStore\\Default.aspx",
+              "DocumentIndex": 7,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Admin.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Admin.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Admin.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:59:59.793Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Site.Master",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Site.Master",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Site.Master",
+              "RelativeToolTip": "Gaurav_BookStore\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T23:52:31.952Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-22T05:12:33.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Products.aspx",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Products.aspx",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Products.aspx",
+              "RelativeToolTip": "Gaurav_BookStore\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:50:29.008Z",
               "EditorCaption": ""
             },
             {
@@ -82,26 +128,14 @@
               "RelativeDocumentMoniker": "Gaurav_BookStore\\Products.aspx.cs",
               "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Products.aspx.cs",
               "RelativeToolTip": "Gaurav_BookStore\\Products.aspx.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wGcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:14:47.397Z",
-              "IsPinned": true
+              "WhenOpened": "2024-11-20T04:52:14.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.aspx.cs",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx.cs",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Cart.aspx.cs",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx.cs",
-              "RelativeToolTip": "Gaurav_BookStore\\Cart.aspx.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:50:56.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Checkout.aspx",
               "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Checkout.aspx",
               "RelativeDocumentMoniker": "Gaurav_BookStore\\Checkout.aspx",
@@ -109,23 +143,38 @@
               "RelativeToolTip": "Gaurav_BookStore\\Checkout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-28T01:50:47.748Z"
+              "WhenOpened": "2024-11-20T04:46:35.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Admin.aspx",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Admin.aspx",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Admin.aspx",
+              "RelativeToolTip": "Gaurav_BookStore\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T05:34:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Message.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Message.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Message.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Message.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:51:57.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Default.aspx.cs",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx.cs",
-              "RelativeToolTip": "Gaurav_BookStore\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:50:42.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Home.aspx",
               "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Home.aspx",
               "RelativeDocumentMoniker": "Gaurav_BookStore\\Home.aspx",
@@ -133,48 +182,12 @@
               "RelativeToolTip": "Gaurav_BookStore\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-28T01:50:38.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Home.aspx.cs",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Home.aspx.cs",
-              "RelativeToolTip": "Gaurav_BookStore\\Home.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:50:37.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Site.Master",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Site.Master",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Site.Master",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Site.Master",
-              "RelativeToolTip": "Gaurav_BookStore\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-28T01:47:07.894Z",
+              "WhenOpened": "2024-11-22T03:49:35.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Message.aspx.cs",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Message.aspx.cs",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Message.aspx.cs",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Message.aspx.cs",
-              "RelativeToolTip": "Gaurav_BookStore\\Message.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:44:14.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Message.aspx",
               "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Message.aspx",
               "RelativeDocumentMoniker": "Gaurav_BookStore\\Message.aspx",
@@ -182,31 +195,112 @@
               "RelativeToolTip": "Gaurav_BookStore\\Message.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-28T00:41:01.067Z"
+              "WhenOpened": "2024-11-20T04:48:39.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Products.aspx",
-              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Products.aspx",
-              "RelativeDocumentMoniker": "Gaurav_BookStore\\Products.aspx",
-              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Products.aspx",
-              "RelativeToolTip": "Gaurav_BookStore\\Products.aspx",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Login.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Login.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:51:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Login.aspx",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Login.aspx",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Login.aspx",
+              "RelativeToolTip": "Gaurav_BookStore\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T03:22:48.052Z"
+              "WhenOpened": "2024-11-22T03:49:41.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Default.aspx",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx",
+              "RelativeToolTip": "Gaurav_BookStore\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T04:46:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Checkout.aspx.cs",
               "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Checkout.aspx.cs",
               "RelativeDocumentMoniker": "Gaurav_BookStore\\Checkout.aspx.cs",
               "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Checkout.aspx.cs",
               "RelativeToolTip": "Gaurav_BookStore\\Checkout.aspx.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA5wD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:50:56.195Z"
+              "WhenOpened": "2024-11-20T04:50:34.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Cart.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Cart.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:49:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Cart.aspx",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Cart.aspx",
+              "RelativeToolTip": "Gaurav_BookStore\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:48:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Default.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Default.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:50:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Gaurav_BookStore\\Home.aspx.cs",
+              "ToolTip": "D:\\Asp_Project\\Gaurav_BookStore\\Gaurav_BookStore\\Home.aspx.cs",
+              "RelativeToolTip": "Gaurav_BookStore\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:51:23.282Z",
+              "EditorCaption": ""
             }
           ]
         }

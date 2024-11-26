@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Web.UI.WebControls;
 using Gaurav_BookStore.Models;
-
+ //Cart.aspx.cs
 namespace Gaurav_BookStore
 {
     public partial class Cart : System.Web.UI.Page
@@ -28,6 +29,7 @@ namespace Gaurav_BookStore
                 // Display a message when the cart is empty
                 lblEmptyCartMessage.Visible = true;
                 GridViewCart.Visible = false;
+                btnEmptyCart.Enabled = false;
             }
         }
 
@@ -36,6 +38,37 @@ namespace Gaurav_BookStore
         {
            
             Response.Redirect("~/Products.aspx");
+        }
+        protected void btnEmptyCart_Click(object sender, EventArgs e)
+        {
+            // Clear the cart session and refresh the display
+            Session["CartItems"] = new List<Book>();
+            DisplayCartItems();
+        }
+
+        protected void GridViewCart_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+            if (e.CommandName == "UpdateQuantity")
+            {
+                int rowIndex = Convert.ToInt32(e.CommandArgument);
+                GridViewRow row = GridViewCart.Rows[rowIndex];
+                TextBox txtQuantity = (TextBox)row.FindControl("txtQuantity");
+
+                int quantity;
+                if (int.TryParse(txtQuantity.Text, out quantity) && quantity > 0)
+                {
+                    // Update quantity in session cart list
+                    var cart = (List<Book>)Session["CartItems"];
+                    cart[rowIndex].Quantity = quantity;
+                    Session["CartItems"] = cart;
+                    DisplayCartItems();
+                }
+                else
+                {
+                    lblEmptyCartMessage.Text = "Quantity must be a positive number.";
+                    lblEmptyCartMessage.Visible = true;
+                }
+            }
         }
 
         // Checkout Button 

@@ -1,6 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Message.aspx.cs" Inherits="Gaurav_BookStore.Message" %>
+﻿
 
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Message.aspx.cs" Inherits="Gaurav_BookStore.Message" %>
 <!DOCTYPE html>
+<!-- Message.aspx -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Order Successful</title>

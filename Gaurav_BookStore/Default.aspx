@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Welcome" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Gaurav_BookStore._Default" %>
-
+﻿
+<%@ Page Title="Welcome" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Gaurav_BookStore._Default" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-
+    <!-- Default.aspx -->
     <div class="container text-center mt-5">
         <div class="row justify-content-center">
             <div class="col-md-8">

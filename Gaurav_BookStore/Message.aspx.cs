@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Web.UI;
-
+//Message.aspx.cs
 namespace Gaurav_BookStore
 {
     public partial class Message : Page
